@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{2528018A-4DBF-289E-C45B-61E5B072EEA0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RollingBG.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TestCompare.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RankManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Group.cs" Line="38" Column="6" />
+      <File FileName="Assets/Scripts/ButtonUI.cs" Line="9" Column="93" />
+      <File FileName="Assets/Scripts/RollingBG.cs" Line="7" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
